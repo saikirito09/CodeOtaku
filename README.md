@@ -26,4 +26,4 @@ A modern, anime-inspired tech blog built with Next.js and TypeScript, featuring 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/codeotaku.git
+git clone https://github.com/saikirito09/codeotaku.git
